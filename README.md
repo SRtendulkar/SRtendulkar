@@ -28,3 +28,4 @@ Update API endpoint
 Change theme color
 Fix typo in README
 Update API endpoint
+Add test cases

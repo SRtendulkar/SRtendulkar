@@ -20,3 +20,4 @@ Remove unused imports
 Update configuration
 Improve performance
 Change theme color
+Clean up codebase

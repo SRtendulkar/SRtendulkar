@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 Optimize loop
 Add test cases
 Remove unused imports
+Update configuration

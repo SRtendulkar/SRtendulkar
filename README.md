@@ -27,3 +27,4 @@ Add new utility script
 Update API endpoint
 Change theme color
 Fix typo in README
+Update API endpoint

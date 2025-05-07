@@ -26,3 +26,4 @@ Optimize loop
 Add new utility script
 Update API endpoint
 Change theme color
+Fix typo in README
